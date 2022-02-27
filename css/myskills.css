@@ -1,0 +1,177 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  border: 0px;
+  margin: 0px;
+}
+body {
+  font-size: 14px;
+}
+.v1_2 {
+  width: 100%;
+  height: 950px;
+  background: linear-gradient(to bottom, rgba(3, 3, 3, 09), rgba(2, 2, 2, 0.73)),url("../images/v1_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_3 {
+  width: 272px;
+  height: 100%;
+  background: rgba(18,17,17,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2_11 {
+  width: 255px;
+  height: 60px;
+  background: url("../images/v2_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 88px;
+  left: 3px;
+  overflow: hidden;
+}
+.v2_12 {
+  width: 242px;
+  height: 125px;
+  background: url("../images/v2_12.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 184px;
+  left: 20px;
+  overflow: hidden;
+}
+.v3_13 {
+  width: 272px;
+  height: 83px;
+  background: rgba(58,53,53,1);
+  opacity: 1;
+  position: absolute;
+  top: 346px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_14 {
+  width: 269px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 346px;
+  left: 3px;
+  font-family: Julius Sans One;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center ;
+  padding-top: 30px;
+}
+.v3_22 {
+  font-family: 'julius sans one';
+  font-size: 85px;
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 50px;
+  left: 353px;
+  opacity: 1;
+  text-align: left;
+  padding: 70px;
+  line-height: 150px;
+}
+
+.v3_22.v3_15{
+  font-family: 'just another hand';
+  font-size: 85px;
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 50px;
+  left: 353px;
+  opacity: 1;
+  text-align: left;
+  padding-bottom: 40px;
+}
+
+.v3_16 {
+  width: 272px;
+  height: 83px;
+  background: rgba(58,53,53,1);
+  opacity: 1;
+  position: absolute;
+  top: 431px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_17 {
+  width: 269px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 432px;
+  left: 3px;
+  font-family: Julius Sans One;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+  padding-top: 30px;
+}
+.v3_18 {
+  width: 272px;
+  height: 83px;
+  background: rgba(58,53,53,1);
+  opacity: 1;
+  position: absolute;
+  top: 516px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_19 {
+  width: 269px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 517px;
+  left: 3px;
+  font-family: Julius Sans One;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+  padding-top: 30px;
+}
+.v3_20 {
+  width: 272px;
+  height: 83px;
+  background: rgba(58,53,53,1);
+  opacity: 1;
+  position: absolute;
+  top: 600px;
+  left: 0px;
+  overflow: hidden;
+}
+.v3_21 {
+  width: 269px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 602px;
+  left: 3px;
+  font-family: Julius Sans One;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+  padding-top: 30px;
+}
