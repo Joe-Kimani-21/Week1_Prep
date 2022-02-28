@@ -113,7 +113,7 @@ body {
   width: 10px;
 }
 .v3_24::-webkit-scrollbar-track {
-  background-color: rgb(34, 33, 33);
+  background-color: rgba(0,0,0,0);
 }
 .v3_24::-webkit-scrollbar-thumb {
   background-color: rgb(34, 33, 33);
@@ -152,7 +152,7 @@ body {
   width: 10px;
 }
 .v3_23::-webkit-scrollbar-track {
-  background-color: rgb(34, 33, 33);
+  background-color: rgba(0,0,0,0);
 }
 .v3_23::-webkit-scrollbar-thumb {
   background-color: rgb(34, 33, 33);
