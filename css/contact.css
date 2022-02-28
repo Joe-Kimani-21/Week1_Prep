@@ -96,17 +96,77 @@ body {
 .contact-wrapper{
   font-family: 'julius sans one';
   font-size: 30px;
-  width: 100%;
+  width: 90%;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 350px;
+  top: 100px;
   opacity: 1;
   text-align: left;
   padding-top: 0px;
-  line-height: 70px;
-  left: 365px;
+  line-height: 40px;
+  left: 350px;
   overflow-y: scroll;
-  height: 600px;
+  height: 900px;
+  padding: 5%;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+
+.contact-wrapper form {
+  width: 50%;
+}
+
+.contact-wrapper form label {
+  display: flex;
+  flex-direction: column;
+  margin: 5% 0;
+}
+
+.contact-wrapper form label input {
+  margin-top: 5%;
+  width: 70%;
+  border: none;
+  border-bottom: #5b9e33 0.11vw solid;
+}
+
+.contact-wrapper form textarea {
+  margin-top: 5%;
+  width: 70%;
+  border: none;
+  border-bottom: #5b9e33 0.11vw solid;
+}
+
+.contact-wrapper form .contact-form-submit {
+  margin-top: 5%;
+  width: 20%;
+  border: none;
+  outline: none;
+  display: inline-block;
+  background-color: #5b9e33;
+  color: #fff;
+  padding: 2.5% 5%;
+  border-radius: 0.3vw;
+  cursor: pointer;
+}
+
+.contact-wrapper .contact-icons {
+  width: 50%;
+  padding-left: 0p;
+}
+
+.contact-wrapper .contact-icons div {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.contact-wrapper .contact-icons div svg {
+  width: 3vw;
+  height: 3vw;
+  margin: 8%;
+  color: #5b9e33;
 }
 
 svg{
