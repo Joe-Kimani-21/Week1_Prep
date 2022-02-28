@@ -35,6 +35,7 @@ Happy coding!
 ## Technologies
 -   HTML5
 -   CSS3
+-   Java script
 
 ## Design
 The project was designed using Canva and is given as; [Design](https://www.figma.com/file/L6BgVNmDIqiq1Y3JZTZDVg/Untitled?node-id=0%3A1)
