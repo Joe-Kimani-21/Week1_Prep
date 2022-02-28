@@ -144,7 +144,7 @@ body {
   border: none;
   outline: none;
   display: inline-block;
-  background-color: #5b9e33;
+  background-color: #2867B2;
   color: #fff;
   padding: 2.5% 5%;
   border-radius: 0.3vw;
@@ -166,13 +166,10 @@ body {
   width: 3vw;
   height: 3vw;
   margin: 8%;
-  color: #5b9e33;
+  color: #2867B2;
 }
 
-svg{
-  height: 20px;
-  width: 20px;
-}
+
 
 #name-c{
   height: 40px;
