@@ -10,7 +10,7 @@
 -   [Design](#design)
 -   [Authors Info](#author-info)
 ## Description
-This a pportfolio website that offers professional info about the author 
+This a portfolio website that offers professional info about the author 
 
 ## Usage
 
