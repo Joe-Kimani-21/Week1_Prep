@@ -169,6 +169,17 @@ body {
   color: #2867B2;
 }
 
+.lnk{
+  text-decoration: none;
+  color:aliceblue;
+  align-items: center;
+}
+
+.lnk:hover{
+  background-color: aliceblue;
+  color: black;
+}
+
 
 
 #name-c{

@@ -256,3 +256,27 @@ body {
   text-align: center;
   padding-top: 30px;
 }
+
+
+.v1_4{
+  position: absolute;
+  right: 0px;
+  width: 41%;
+  justify-content: space-evenly;
+  height: 70px;
+  align-items: center;
+  align-content: center;
+  top: 200px;
+}
+
+.v1_4 img{
+width: max-content;
+height: 70px;
+padding-right: 0px;
+align-content: center;
+padding-top: 0px;
+margin: 40px;
+margin-top: 0px;
+margin-bottom: 0px;
+border-radius: 20px;
+}
