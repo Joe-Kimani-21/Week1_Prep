@@ -93,6 +93,42 @@ body {
   line-height: 150px;
 }
 
+.contact-wrapper{
+  font-family: 'julius sans one';
+  font-size: 30px;
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 350px;
+  opacity: 1;
+  text-align: left;
+  padding-top: 0px;
+  line-height: 70px;
+  left: 365px;
+  overflow-y: scroll;
+  height: 600px;
+}
+
+svg{
+  height: 20px;
+  width: 20px;
+}
+
+#name-c{
+  height: 40px;
+}
+
+#email-c{
+  height: 40px;
+}
+
+#message{
+  height: 80px;
+}
+
+
+
+
 .v3_22.v3_15{
   font-family: 'just another hand';
   font-size: 85px;
