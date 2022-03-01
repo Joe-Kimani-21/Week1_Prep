@@ -94,8 +94,8 @@ body {
 }
 
 .v3_23 {
-  font-family: 'julius sans one';
-  font-size: 30px;
+  font-family: 'just another hand';
+  font-size: 45px;
   width: 100%;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -108,7 +108,10 @@ body {
   left: 1400px;
   overflow-y: scroll;
   height: 600px;
+  letter-spacing: 3px;
 }
+
+
 .v3_23::-webkit-scrollbar {
   width: 10px;
 }
@@ -134,8 +137,8 @@ body {
 
 
 .v3_24 {
-  font-family: 'julius sans one';
-  font-size: 30px;
+  font-family: 'just another hand';
+  font-size: 45px;
   width: 800px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -147,6 +150,7 @@ body {
   left: 365px;
   overflow-y: scroll;
   height: 600px;
+  letter-spacing: 3px;
 }
 
 .v3_24::-webkit-scrollbar {
@@ -278,5 +282,5 @@ padding-top: 0px;
 margin: 40px;
 margin-top: 0px;
 margin-bottom: 0px;
-border-radius: 20px;
+border-radius: 10px;
 }

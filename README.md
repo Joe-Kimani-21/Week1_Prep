@@ -1,5 +1,7 @@
 # Portfolio
+
 ![Project Image](./images/portfolio.jpg)
+
 ### By: Joseph Kimani
 
 ## Table of Content
@@ -10,7 +12,7 @@
 -   [Design](#design)
 -   [Authors Info](#author-info)
 ## Description
-This a portfolio website that offers professional info about the author 
+This a portfolio website that offers professional info about the author. The project consists of several sections describing the authors work background, skills, technologies and contact information.
 
 ## Usage
 
@@ -31,6 +33,13 @@ When you run the commands successfully, you should have a local version of this 
 ### 2. Online Repository
 -   Make sure you have a stable internet for forking this repository.
 -   According to the license, you can fork this project. You need ibkt click on the forking icon and it will be added as one of your repositories
+### 3. Live Link
+
+This a live link of the hosted website on github-pages
+
+https://joe-kimani-21.github.io/Week1_Prep/
+
+
 Happy coding!
 ## Technologies
 -   HTML5
@@ -39,6 +48,7 @@ Happy coding!
 
 ## Design
 The project was designed using Canva and is given as; [Design](https://www.figma.com/file/L6BgVNmDIqiq1Y3JZTZDVg/Untitled?node-id=0%3A1)
+
 
 ## Authors Info
 -  LinkedIn- [Joseph Kimani](https://www.linkedin.com/in/joseph-k-235a99140/)

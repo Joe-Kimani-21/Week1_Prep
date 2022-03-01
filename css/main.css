@@ -79,7 +79,7 @@ body {
   text-align: center ;
   padding-top: 30px;
 }
-.v3_22 {
+.v3_10 {
   font-family: 'julius sans one';
   font-size: 85px;
   width: 100%;
@@ -93,18 +93,42 @@ body {
   line-height: 200px;
 }
 
-.v3_22.v3_15{
-  font-family: 'just another hand';
-  font-size: 85px;
+.v3_22 {
+  margin: 100px;
+  line-height: 200px;
+  justify-content: space-around;
+  align-content: space-around;
+}
+
+
+
+.v3_15,.v3_11{
+  font-family: 'Just another hand';
+  font-size: 140px;
   width: 100%;
   color: rgba(255,255,255,1);
-  position: absolute;
+  position:absolute;
   top: 50px;
   left: 353px;
   opacity: 1;
   text-align: left;
-  padding-bottom: 40px;
+  padding-bottom: 50px;
+  letter-spacing: 3px;
 }
+
+.v3_11{
+  margin-top: 500px;
+}
+
+.v3_10{
+  margin-top: 250px;
+}
+
+.v3_15{
+  margin-top: 10px;
+}
+
+
 
 .v3_16 {
   width: 272px;
