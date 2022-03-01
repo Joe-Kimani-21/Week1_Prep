@@ -119,9 +119,9 @@ body {
   background-color: rgba(0,0,0,0);
 }
 .v3_23::-webkit-scrollbar-thumb {
-  background-color: rgb(34, 33, 33);
+  background-color: rgba(0,0,0,1);
   border-radius: 5px;
-  border: 1px solid rgb(34, 33, 33);
+  border: 1px solid rgba(0,0,0,1);
 }
 *::-webkit-scrollbar {
   width: 10px;
@@ -160,9 +160,9 @@ body {
   background-color: rgba(0,0,0,0);
 }
 .v3_24::-webkit-scrollbar-thumb {
-  background-color: rgb(34, 33, 33);
+  background-color: rgba(0,0,0,1);
   border-radius: 5px;
-  border: 1px solid rgb(34, 33, 33);
+  border: 1px solid rgba(0,0,0,1);
 }
 *::-webkit-scrollbar {
   width: 10px;
@@ -264,18 +264,17 @@ body {
 
 .v1_4{
   position: absolute;
-  left:1170px;
-  width: 41%;
+  width: 100%;
   justify-content: space-evenly;
   height: 70px;
   align-items: center;
   align-content: center;
-  top: 200px;
+  top: 250px;
 }
 
 .v1_4 img{
 width: max-content;
-height: 70px;
+height: 50px;
 padding-right: 0px;
 align-content: center;
 padding-top: 0px;

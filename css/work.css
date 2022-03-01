@@ -117,9 +117,9 @@ body {
   background-color: rgba(0,0,0,0);
 }
 .v3_24::-webkit-scrollbar-thumb {
-  background-color: rgb(34, 33, 33);
+  background-color: rgba(0,0,0,1);
   border-radius: 5px;
-  border: 1px solid rgb(34, 33, 33);
+  border: 1px solid rgba(0,0,0,1);
 }
 *::-webkit-scrollbar {
   width: 10px;
@@ -170,9 +170,9 @@ letter-spacing: 3px;
   background-color: rgba(0,0,0,0);
 }
 .v3_23::-webkit-scrollbar-thumb {
-  background-color: rgb(34, 33, 33);
+  background-color: rgba(0,0,0,1);
   border-radius: 5px;
-  border: 1px solid rgb(34, 33, 33);
+  border: 1px solid rgba(0,0,0,1);
 }
 *::-webkit-scrollbar {
   width: 10px;
